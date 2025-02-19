@@ -1,6 +1,6 @@
 site_name: Zhiqing's Home Page
 site_url: https://skyomi.github.io/
 nav:
-  - Home: README.md
-  - About: about.md
-  - Projects: projects.md
+  - Home: 'README.md'
+  - About: 'about.md'
+  - Projects: 'projects.md'

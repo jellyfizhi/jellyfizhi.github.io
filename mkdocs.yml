@@ -1,6 +1,6 @@
 site_name: Zhiqing's Home Page
-site_url: https://skyomi.github.io/
+site_url: https://jellyfizhi.github.io/
 nav:
-  - Home: 'README.md'
+  - Home: 'index.md'
   - About: 'about.md'
   - Projects: 'projects.md'

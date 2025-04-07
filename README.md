@@ -1,3 +1,4 @@
 # Welcome to Zhi's Page!!
-
-## Description
+## Greetings, Traveller!
+---
+## Thank you for joining me on my journey!

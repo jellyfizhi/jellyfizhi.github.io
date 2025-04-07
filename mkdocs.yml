@@ -3,5 +3,6 @@ site_url: https://jellyfizhi.github.io/
 nav:
   - Home: 'index.md'
   - About: 'about.md'
-  - Projects: 'projects.md'
+  - Programs: 'program.md'
+  - Game Development: 'game.md'
   

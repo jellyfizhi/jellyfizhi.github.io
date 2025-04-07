@@ -1,3 +1,3 @@
 # Welcome to Zhi's Page!!
 
-## Description test
+## Hii, thank you for joining me on my journey!

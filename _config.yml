@@ -9,7 +9,7 @@ name: jellyfizhi
 description: zhis page
 
 # THEME
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 

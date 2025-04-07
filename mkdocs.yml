@@ -1,6 +1,5 @@
 site_name: Zhiqing's Home Page
 site_url: https://jellyfizhi.github.io/
-theme: jekyll-theme-merlot
 nav:
   - Home: 'index.md'
   - About: 'about.md'
